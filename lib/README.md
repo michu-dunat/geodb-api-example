@@ -2,8 +2,8 @@ v0.1
 
 The library allows to:
 
-- download the time in a given city,
-- download the population of a given city.
+- get the time in a given city,
+- get the population of a given city.
 
 v0.2
 
@@ -20,7 +20,7 @@ v0.3
 Added:
 
 - a city class,
-- method enabling display of information about given city.
+- method displaying of information about given city.
 
 1.0
 
